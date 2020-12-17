@@ -1,10 +1,8 @@
-import { combineReducers} from 'redux';
+import {counterReducer, counterReducerName} from './data/counterSlice';
 
-import {counterReducer, counterReducerName} from './data/counterReducer';
-
-const rootReducer = combineReducers({
+const rootReducer = {
   [counterReducerName]: counterReducer,
-});
+}
 
 export {
   rootReducer,

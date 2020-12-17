@@ -1,8 +1,8 @@
 import {connect} from 'react-redux';
 
 import {Counter} from './Counter'
-import {getCounterValue} from "../store/data/counterReducer";
-import {increment, decrement} from "../store/data/counterReducer";
+import {getCounterValue} from "../store/data/counterSlice";
+import {increment, decrement} from "../store/data/counterSlice";
 
 const mapStateToProps = (state) => ({
   counterValue: getCounterValue(state),

@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94cbb8dd-70e0-4c6c-b178-cc31c629e2a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Counter.container.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Counter.container.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/components/Counter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/Counter.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/components/CounterHooks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/CounterHooks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/actionTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/data/counterReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store/data/counterSlice.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/genericSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/store/rootReducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/store/rootReducer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608216656032</updated>
-      <workItem from="1608216657778" duration="7768000" />
+      <workItem from="1608216657778" duration="9799000" />
     </task>
     <servers />
   </component>
