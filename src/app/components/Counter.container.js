@@ -18,7 +18,9 @@ const mapDispatchToProps = {
   decrement,
 }
 
-const CounterContainer = connect(mapStateToProps, mapDispatchToProps)(Counter);
+const connector = connect(mapStateToProps, mapDispatchToProps);
+
+const CounterContainer = connector(Counter);
 
 export {
   CounterContainer
