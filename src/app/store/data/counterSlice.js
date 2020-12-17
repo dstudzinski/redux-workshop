@@ -26,7 +26,6 @@ const counterSlice = createSlice({
 const getCounter = state => state[counterReducerName];
 export const getCounterValue = state => getCounter(state).value;
 
-
 export const { increment, decrement } = counterSlice.actions
 export const counterReducer = counterSlice.reducer
 
